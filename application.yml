@@ -1,0 +1,8 @@
+huggingface:
+  api-key: "{NUESTRO_API_KEY}"
+  model: "{Modelo elegido, recomiendo mistralai/Mixtral-8x7B-Instruct-v0.1}"
+
+telegram:
+  bot:
+    token: "{Token de nuestro bot de telegram}"
+    username: "{Nombre de nuestro bot de telegram}"
